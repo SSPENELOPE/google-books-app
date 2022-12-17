@@ -11,6 +11,9 @@
 # Usage 
 - The login portion of the page is still being worked on as I do not have the time to finish it with work right now. I will continue to test and trouble shoot as I get the time
 - To search for a book just type in the name of the book you are looking for and hit the search button and the book should appear, or the closest thing to it!
+- You can use and view this page on (https://afternoon-meadow-40849.herokuapp.com/)
+
+![alt text](./client/src/assets/screenshot.png)
 
 # Credits
 - The Instructors at the UofM Coding Bootcamp for giving me all the tools necessary to complete this project
